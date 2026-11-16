@@ -1,0 +1,6 @@
+{
+  "name": "token-band",
+  "version": "0.1.0",
+  "description": "Shows the session's context tokens, context window and cost in a band above the prompt",
+  "types": "./types/index.d.ts"
+}
